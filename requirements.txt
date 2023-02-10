@@ -1,0 +1,19 @@
+autopep8
+autopep8
+ipykernel
+wheel
+#
+# click
+# dataclasses-json
+# flet
+# gremlinpython
+# matplotlib
+# openai
+# openai-async
+# qdrant-client
+# rdflib
+# requests
+# rich
+# sentence-transformers
+# strawberry-graphql[debug-server]
+# textual[dev]
