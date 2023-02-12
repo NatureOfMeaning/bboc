@@ -3,6 +3,7 @@ autopep8
 ipykernel
 wheel
 #
+graphviz
 # click
 # dataclasses-json
 # flet
