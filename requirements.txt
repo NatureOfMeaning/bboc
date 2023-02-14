@@ -3,6 +3,9 @@ autopep8
 ipykernel
 wheel
 #
+graphviz
+torch>=1.9.0
+numpy>=1.17
 # click
 # dataclasses-json
 # flet
